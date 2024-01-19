@@ -1,0 +1,24 @@
+.logo img {
+    width: 150px;
+    color: bisque;
+}
+.header{
+    background-color: #DDD;
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    padding: 20px;
+    margin: auto;
+
+}
+.list{
+    font-size: 25px;
+    display: flex;
+    gap: 30px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(17, 16, 16);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
