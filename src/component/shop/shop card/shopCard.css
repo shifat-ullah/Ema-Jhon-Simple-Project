@@ -1,0 +1,29 @@
+.img {
+    width: 270px;
+}
+
+.shop-card {
+    border-radius: 0px 0px 8px 8px;
+    border: 1px solid #d6d9db;
+    width: 270px;
+    position: relative;
+    height: 600px;
+    top: 0;
+
+
+
+}
+
+.btn {
+    width: 100%;
+    background-color: #FFE0B3;
+    padding: 10px;
+    border: none;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.section-card {
+    padding: 5px;
+}
