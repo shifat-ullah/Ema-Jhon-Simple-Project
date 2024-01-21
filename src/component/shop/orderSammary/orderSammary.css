@@ -1,0 +1,9 @@
+.ordersummary{
+    background-color: rgba(255, 153, 0, 0.30);
+    padding: 2px;
+    padding-left: 8px;
+    height: auto;
+    font-family: Lato;
+    position: sticky;
+    top: 0;
+}
